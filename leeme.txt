@@ -1,0 +1,1 @@
+Este es un proyecto inútil para probar Git.
